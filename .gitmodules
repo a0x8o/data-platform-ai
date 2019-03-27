@@ -1,0 +1,33 @@
+[submodule "horovod"]
+	path = horovod
+	url = git@github.com:axbaretto/horovod.git
+[submodule "marmaray"]
+	path = marmaray
+	url = git@github.com:axbaretto/marmaray.git
+[submodule "hudi"]
+	path = hudi
+	url = git@github.com:axbaretto/hudi.git
+[submodule "cadence"]
+	path = cadence
+	url = git@github.com:axbaretto/cadence.git
+[submodule "jaeger"]
+	path = jaeger
+	url = git@github.com:axbaretto/jaeger.git
+[submodule "petastorm"]
+	path = petastorm
+	url = git@github.com:axbaretto/petastorm.git
+[submodule "peloton"]
+	path = peloton
+	url = git@github.com:axbaretto/peloton.git
+[submodule "zanzibar"]
+	path = zanzibar
+	url = git@github.com:axbaretto/zanzibar.git
+[submodule "arx"]
+	path = arx
+	url = git@github.com:axbaretto/arx.git
+[submodule "presto"]
+	path = presto
+	url = git@github.com:axbaretto/presto.git
+[submodule "arachne"]
+	path = arachne
+	url = git@github.com:axbaretto/arachne.git
